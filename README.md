@@ -1,6 +1,3 @@
 # HRC
-During this project, I was involved in creating a full stack web-based product thereby
-developing a deep understanding of all aspects of product development such as identifying appropriate user
-requirements, designing a great user experience and building appropriate
-data models and machine learning models along with relevant
-UI components and backend design
+This project was conducted as a task in an internship under the Highradius Corporation.
+The objective was to build an invoice management web application which could be used in a B2B field. The web application could help the seller business to keep track of all the money that are owed by buyer businesses.
